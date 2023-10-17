@@ -14,7 +14,8 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
 
-  wakelock_platform_interface: ^0.3.0
+  wakelock_platform_interface: 
+    path: ../wakelock_platform_interface
 
 dev_dependencies:
   flutter_test:
